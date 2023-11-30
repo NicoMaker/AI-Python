@@ -91,3 +91,20 @@ Grafi -> struttura dati completa
 Grafo -> array di array -> rappresentazione del grafo -> no relazioni
 
 possibile rappresentazione dati -> matrice di adiacenza -> nodi connessi ad un altro nodo
+
+Alberi -> struttura dati simula gerarchia di valori o di oggetti
+
+Gerarchia -> elementi dentro diversi contenuti
+Albero -> ogni punto e chiamato nodo, che possono averne n
+Possono contennre diversi nodi
+
+Profondità degli aberi -> in base a quanti dati hanno
+Alberi -> nodi figli -> collegamento con i figli arco
+FIgli arco -> fuori foglie
+
+Alberi -> struttura dati Fondamentale
+Ricerca non informata -> ricerca forzata -> algoritmi non dispongono domini del problema -> albero
+Cercare per diversi modi -> ampiezza e Profondità
+Profondità -> percorso
+
+Ricerca Ampiezza -> prova tutte le opzioni che servono e legge quella miglore
