@@ -1,0 +1,29 @@
+run_bfs(maze, current_point, visited_points):
+
+let q equal a new queue
+
+push current_point to g
+
+mark current_point as visited
+
+while q is not empty:
+
+pop g and let current_point equal the returned point
+
+add available cells north, east, south, and west to a list neighbors
+
+for each neighbor in neighbors:
+
+if neighbor is not visited:
+
+set neighbor parent as current_point
+
+mark neighbor as visited
+
+push neighbor to g
+
+if value at neighbor is the goal:
+
+return path using neighbor
+
+return “No path to goal”

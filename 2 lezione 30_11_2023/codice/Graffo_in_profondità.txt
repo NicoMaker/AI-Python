@@ -1,0 +1,29 @@
+run_dfs (maze, root_point, visited_points):
+
+let s equal a new stack
+
+add root_point to s
+
+while s is not empty
+
+pop s and let current_point equal the returned point
+
+if current_point is not visited:
+
+mark current_point as visited
+
+if value at current_node is the goal:
+
+return path using current_point
+
+else:
+
+add available cells north, east, south, and west to a list neighbours
+
+for each neighbour in neighbours:
+
+set neighbour parent as current_point
+
+push neighbours to s
+
+return “No path to goal”
