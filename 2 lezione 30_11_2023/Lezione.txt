@@ -16,8 +16,8 @@ AI -> creare comportamento intelligente in una struttura artificiale -> compless
 Ai -> scienza che richiedono intelligenza umana
 AI -> macchine più intelligente -> dati più utili AI -> scienza dei dati
 
-AI > compieri azioni rifertite all'uomo -> reagire in modo razionale -> comprensione -> capisce cosa dico e aggiungo ragionamento umani con approndimento
--> miglora prestazioni
+AI > compieri azioni rifertite all'uomo -> reagire in modo razionale -> comprensione 
+-> capisce cosa dico e aggiungo ragionamento umani con approndimento -> miglora prestazioni
 
 AI -> simulano complessità dati umani, sistemi che diventano sapienti con un pensiero umano -> macchine propria intelligenza
 
@@ -49,7 +49,8 @@ Agente -> riflessi seplici -> reagisce solo input ricevuti -> azioni solo percee
 
 Agenti con riflessi e stato interno -> costruito percezione Ricetiva -> dove agente si torva percezione del mondo
 Ogni volta utente viene aggiornato -> ambiente da ingresso sensore con situazione attuuale 
--> dove azioni vengono aggiornate -> obbiettivo da raggiungere e valutazione effetti con possibile azione -> futuri cambiamneti in base a come evoolve ambiente
+-> dove azioni vengono aggiornate -> obbiettivo da raggiungere e valutazione effetti con possibile azione 
+-> futuri cambiamneti in base a come evoolve ambiente
 
 Utente Abiltà -> vede contentezza grado -> cosa è meglio scegliere -> obbiettivo ma non certi
 
@@ -60,7 +61,8 @@ Decido Ambiente in base alle scelte
 Percezioni -> esecuzione apprenditivi per l'utente più facili -> non è detto il successo delle aziende
 
 Fondamenti della ricerca -> pianificare prima di compiere azioni -> prima chiedo cosa mi interessa 
--> pianificazioni livelli != in base condizioni -> non è detto che posso tenre in conto tutti i dettagli-> devio per ulteriori cambiamneti -> soluzione finale != da soluzione iniziale
+-> pianificazioni livelli != in base condizioni -> non è detto che posso tenre in conto tutti i dettagli
+-> devio per ulteriori cambiamneti -> soluzione finale != da soluzione iniziale
 
 Ricerca -> serve per guidare la soluzione per capire il percorso
 
