@@ -1,3 +1,5 @@
+Ricordami installare estensione Python in vscode 
+
 AI -> intelligenza artificiale
 
 intelligenza Umana -> Funzionamento e comportamento per arrivare allo scopo
@@ -108,3 +110,19 @@ Cercare per diversi modi -> ampiezza e Profondità
 Profondità -> percorso
 
 Ricerca Ampiezza -> prova tutte le opzioni che servono e legge quella miglore
+
+
+Algoritmi di ricerca anche non informati -> ricerca percorsi nodi di una rete -> computer dispositivi
+Posso creare cover -> struttura dati -> metadata
+
+Geometria -> grafi e alberi -> utili, nodi e arci e collegamento con i vari dati, grafo non orientato 
+Con anche diverse strade di collegamento
+
+Grafo Orientato -> collegamento collegato
+Grafo Aciclico -> non puoi tornare indietro
+Grafo pesato -> hanno un peso
+Grado Disconesso -> non è connesso
+Grafo Completo -> completo tutti i dati
+
+Matrice incidenza -> matrice il quale -> relazione di un nodo
+Lista di adiacenza -> liste concatenate, dimensione, numero presente nel grafo -> può essere orientato o non
