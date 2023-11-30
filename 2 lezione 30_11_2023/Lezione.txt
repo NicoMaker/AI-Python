@@ -1,0 +1,82 @@
+AI -> intelligenza artificiale
+
+intelligenza Umana -> Funzionamento e comportamento per arrivare allo scopo
+Bisogna saper padronare il pproprio significato ne mondo reale
+
+!= AI o intelligenza Umana -> l'intellisence, scegliere opzioni utili quando hai diverse scelte da fare
+
+intellisence -> vedi informazioni utili degli utenti per capire come Funzionamento
+intelligenza artificiale -> risolvere problemi computazzionali 
+
+intelligenza Umana -> Risolvere problemi Complessi
+
+AI -> creare comportamento intelligente in una struttura artificiale -> complessità -> azioni in momento Complessi -> vedi metodi di come risolvere il problema (HW o SW)
+
+Ai -> scienza che richiedono intelligenza umana
+AI -> macchine più intelligente -> dati più utili AI -> scienza dei dati
+
+AI > compieri azioni rifertite all'uomo -> reagire in modo razionale -> comprensione -> capisce cosa dico e aggiungo ragionamento umani con approndimento
+-> miglora prestazioni
+
+AI -> simulano complessità dati umani, sistemi che diventano sapienti con un pensiero umano -> macchine propria intelligenza
+
+Fornire Esempi -> valuta qualità modello e migloro le struttura e quello che mi serve
+
+Cognituve Computing -> interazione più accessibile tra uomo e macchina
+Soft Computing -> tecniche che valutano struttura precipa e varia -> modelli approsimativi -> risolvere problemi reali e conoscenza dell'uomo
+
+Test di Turing -> Il test di Turing è un criterio per determinare se una macchina sia in grado di esibire un comportamento intelligente e vedere se non si capisce se parla macchina o utente
+test superato se PC imita bene utente -> film "The Himation Game"
+
+Timori -> potrebbe essere che la macchina ci nasconde e noi non ci siamo, però ci sono anche molte conseguenze positive -> soggetti che rispondono errori degli utenti coinvolti
+
+
+Agente Intelligente -> Ai che viene messa in un ambiente -> tramite percezione e ragionamento
+Agente -> sistema -> percepisce con un sensore -> attuatori per dare messaggo di uscita
+
+Robo -> programma software che serve per poter utilizzare per le sequenze interessate -> azioni prescelta -> comportamneto di mappaturab 
+con spefihe azione -> tabella input e output
+
+Diverse metologie e azioni e anche i vari costi 
+Molti dati -> per conplessità struttura 
+
+Agente -> riflessi seplici -> reagisce solo input ricevuti -> azioni solo perceezioni ricevute
+
+Agenti con riflessi e stato interno -> costruito percezione Ricetiva -> dove agente si torva percezione del mondo
+Ogni volta utente viene aggiornato -> ambiente da ingresso sensore con situazione attuuale -> dove azioni vengono aggiornate -> obbiettivo da raggiungere e valutazione effetti con possibile azione -> futuri cambiamneti in base a come evoolve ambiente
+
+Utente Abiltà -> vede contentezza grado -> cosa è meglio scegliere -> obbiettivo ma non certi
+
+macchine -> apprendere per capire il Funzionamento e migloramento interno -> in modo da capire modulo esecutivo -> estendere o miglorare
+Decido Ambiente in base alle scelte 
+
+Percezioni -> esecuzione apprenditivi per l'utente più facili -> non è detto il successo delle aziende
+
+Fondamenti della ricerca -> pianificare prima di compiere azioni -> prima chiedo cosa mi interessa -> pianificazioni livelli != in base condizioni -> non è detto che posso tenre in conto tutti i dettagli-> devio per ulteriori cambiamneti -> soluzione finale != da soluzione iniziale
+
+Ricerca -> serve per guidare la soluzione per capire il percorso
+
+Scopo Algoritmi intelligenti -> costi != , calcolo !=
+più calcolo -> + costo e + complesso matematicamente
+
+Algoritmi -> costi di calcolo !=
+Algoritmi -> risolti algoritmi di ricerca -> algoritmi diversi per risolverlo -> soluzioni ottimale o soluzione più possibile da risolvere
+
+Tentativi -> trovo percorso miglore -> si riesce a torvare percorso miglore -> != soluzioni 
+Umano -> interpreta parte identifica in modo astratto, rappresentazione stato per capire memoria dello stato da mettere nel PC4
+
+Dati -> singoli passaggi
+Info -> percorso (contesto)
+
+struttura Dati -> rappresentazione dati in modo che gli algoritmi hanno dati efficaaci -> organizzati in odo preciso -> es. Array -> tipo proprietà !=
+
+Grafi -> rappresentazione  di ricerca e delle soluzioni -> struttura dati -> connessi tra di loro -> modellare dati tra oggetti
+Grafi -> natura logica
+
+Dati connessi tramite Arci -> punto che collegano i garafi
+Grafi -> ogni punto per arrivare alla soluzione
+Grafi -> struttura dati completa
+Grafo -> array di array -> rappresentazione del grafo -> no relazioni
+
+possibile rappresentazione dati -> matrice di adiacenza -> nodi connessi ad un altro nodo
+
