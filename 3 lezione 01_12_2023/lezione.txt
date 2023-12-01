@@ -1,1 +1,59 @@
 ricerca dati -> con diversi tipi di ordinamento, ognuno ha i suoi vantaggi e svantaggi
+
+Computazione evolutiva -> tecniche ispirate in generale all'evoluzione Genrale (Darwin) -> ereditarietà dati accquisita
+
+Popolazione -> adatarsi all'ambienet dove rivolta
+
+Evoluzione Naturale o Artificiale -> non intelligente -> evoluzione non si capisce
+
+intelligenza -> soluzione miglore rispetto a quelli futuri -> algoritmi migliori -> != soluzione al problema 
+buone o cattive -> creare più opzioni
+
+
+Evoluzione gerarchie persone -> utilità ogni volta -> che serve per sostitutire le persone -> diversi algoritmi evolutivi
+Algoritmi -> ricerca globale -> soluzione potenzile più vasti ma difficoltà di progettazione ed evoluzione alta -> 
+problema da risolvere
+
+Conoscenza -> risolvere è importante 
+
+Valutazione -> definito problema da risolvere dove finisce evoluzione altrimenti non finisce -> calcolo lo scopo e abilità
+soluzioni buoni ed efficenti -> lenti o veloce o inefficente 
+
+Valore più importante -> più risolto problema
+
+Selezione -> scegliere problema per scegliere i miglori -> selezione Naturale
+
+Ridurre tempo di calcolo -> selezione forte -> ma meglio riduco Conoscenza
+
+Selezione -> fatta male scelta ma con poche probabilità
+
+infine si sceglie -> riproduzione che sceglie cosa serve 
+Ciclo -> chiudo con sostituzione con nuovi individui -> nuova generazione -> applico tecniche di speciazione
+-> diverse opzioni ottimale -> ogni volta individuo generatooo -> si supero solo chi è superato
+
+
+Algoritmi Genetico -> algoritmi sulla genetica -> tipologia più conosciuti -> modo iteraticvo con mutazione
+cromosomi -> sequenza di bit -> dati dove cercare i dati -> soluzioni interessanti -> spazio di ricerca 
+
+mutazione -> non si adatta opzione
+
+Algoritmi di creazione -> vedere utenti nel mondo 
+
+Algoritmi gentico -> da dati miglore che ti serve per essere interessato -> decido in base a un criterio stabilito 
+
+Logica Fuzzy -> prende sfumature in base alle condizioni che metti 
+
+System Expert -> tutti i possibili errori nel campo
+System Expert AI -> come esperto umano 
+
+Il sistema esperto -> riprodurre meccanisco perosna esperta in base campo attività 
+-> base conoscenza del campo che serve -> da dati e regole -> logica calcola in base dati programmati 
+-> dati della conoscenza -> base conoscenza -> funzionano i dati da funzionare -> aumentare conoscenza quando neccessario
+-> aggiornare regole -> integrare sistema 
+
+Conoscenza -> espressa con i fatti -> tradotto forma adeguata per il campo -> dati dove inserisco i campi
+
+Semantica -> collegamento parole -> != opzioni di parole
+
+AI -> suggerimento messaggi correttore oppure in base messaggi ti da le risposte indicate più spesso
+Statistica dei dati -> in base alle condizioni interessate
