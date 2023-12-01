@@ -57,3 +57,5 @@ Semantica -> collegamento parole -> != opzioni di parole
 
 AI -> suggerimento messaggi correttore oppure in base messaggi ti da le risposte indicate più spesso
 Statistica dei dati -> in base alle condizioni interessate
+
+macchine learning -> sequenza idea dei dati che tengono in memoria i dati che ti interessano 
