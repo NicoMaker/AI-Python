@@ -1,8 +1,10 @@
 def Seletion_sort(input_list):
+    i = 0
     
     for idx in range(len(input_list)): 
         min_idx = idx
-        print(input_list)
+        i += 1
+        print(f'{i} passaggio ) : {input_list}')
         
         for j in range(idx + 1, len(input_list)):
             
@@ -15,4 +17,3 @@ def Seletion_sort(input_list):
         
 list = [19,2,31,45,6,11,121,27]
 Seletion_sort(list)
-print(list)                        
