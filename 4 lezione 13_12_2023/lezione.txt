@@ -1,0 +1,57 @@
+Macchine Learning -> il Macchine Learning permette di creare SW che impara -> impari per induzione -> osservi dato
+e ottieni nuova conoscenza di come fare le cose 
+
+Macchine Learning -> studia e conosce i possibili statistiche dei dati -> ottiene nuove informazioni
+-> scienza che fa apprendere dei dati al pc -> senza specificarle le regole -> map valore input e output -> n dati
+
+Vantaggi -> ridottointervento umano 
+            migloramento continuo
+            facile trend
+            n vantaggi dei dati leggge n estensioni
+            regole anche molto complesse che l'uomo fa fatica a ripetere ogni volta
+            adatta all'evoluzione
+
+Svantaggi -> problema matematico malposto (non è detta la risposta)
+             nessuno è il miglore (scegliere quello più ottimale)
+             tanto temmpo di calcolo (però più veloce di noi) e abbastanza spazio
+             eventi casuali che non posso tenere in consisderazione
+             rumore che creano dati che creano confusione
+
+Programmazzione Esplicita -> dati in input -> trasformati e si sa cosa viene fuori 
+
+Macchine Learning -> informazioni senza intervento umano 
+Macchine Learning -> coppie di dato in input -> crea gli output -> linguaggio di Programmazzione crei linguaggio
+
+Data Mining -> tante quantità di dati -> prendere info che ci interessno in tutti i dati
+Deep Learning -> sottoinsieme di Macchine Learning -> apprendere diverse info che ci servonno per utilizzare i dati che ci 
+servono e vede le caratteristiche e dopo l'AI dice che tipo è
+
+Input -> più classi -> modello diversi input in base ai settori che servono 
+
+Clustering -> insiemme di dati in gruppi -> dati caratteristiche simili e diversi tra di loro i gruppi -> patter nascosti
+o struttura asincrone e trovoo anomalie -> dati != dagli altri
+
+
+Forme di Apprendimento -> algoritmi Learning o addestramento
+
+Supervied Learning -> sceglo dati da vedere per descriver l'oggetto che mi interessa -> mappa Input e output -> in base ai
+dati -> crea messaggi di output - >training
+Processo di training -> Apprendimento scarso o buon apprendimento
+
+Unsupervised Learning -> dati influentati in base a cosa decide l'algoritmo
+
+Reinforent -> rinformazre i dati dell'algoritmo
+Transfer -> problema si trasferisce agli altri dati
+
+
+Scikit Learn -> libreria per il Macchine Learning
+import sklearn -> pyton importo libreria per Macchine Learning
+
+Dataset -> ottengo diversi dati strutturi (tabella) righe (valore) colonne (dati)
+
+dataset -> diversi tipi di dati 
+Molte Raccolte Online -> ottenere dai pubblici
+
+DATASET IRIS -> veriificati veri fiori -> altezza e larghezza fiore -> dati per apprendimento
+
+Formato dei file -> come ho memeorizzato i file .CSV , .txt , .doc , .pdf o immaggini (.jpg , .jpeg , .gif o .png)
