@@ -11,7 +11,7 @@ Vantaggi -> ridottointervento umano
             regole anche molto complesse che l'uomo fa fatica a ripetere ogni volta
             adatta all'evoluzione
 
-Svantaggi -> problema matematico malposto (non è detta la risposta)
+Svantaggi -> problema matematico malposto (imperfetto) (non è detta la risposta)
              nessuno è il miglore (scegliere quello più ottimale)
              tanto temmpo di calcolo (però più veloce di noi) e abbastanza spazio
              eventi casuali che non posso tenere in consisderazione
