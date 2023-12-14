@@ -1,0 +1,23 @@
+Rete Neurale -> è uun collegamento di neuroni matematici artificiali
+
+Vantaggi -> adatte problemi non curati 
+            risolvono problemi complessi 
+            output stabile con tutti input non solo qualcuno
+
+Svantaggi -> richiedono tempo
+             non rende conto dei consiglio
+             output non precisi 
+             chiede molto sw
+
+Dataset Iris -> analizzare i dati di tutti noti per spammer -> elenco parole tipice spam ecc.. con un determinato peso
+
+Algoritmo rete neurale -> tiene in memoria tutti i dati matematici che ci sono
+Train -> addestra metodo neurale -> prende valori input 
+Output -> spam o buoni 
+Iterazioni quanti volte mettere i dati
+
+Infine -> vede i dati e vede i risultati
+Statistiche -> calcola in base alle Statistiche -> differenza ra input e peso e restituisce output
+
+Output trainig - output attuale  -> in modo da aggiustare i pesi con l'opzione di addestramento richamando la rete neurale 
+pasando array di numeri e da valori in uscita e dice messaggi input e output alla fine -> stampa numero per addetarre rete 
