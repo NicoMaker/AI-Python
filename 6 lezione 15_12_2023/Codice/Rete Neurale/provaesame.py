@@ -1,58 +1,34 @@
-# lettura dati file excel e crea il valore in base ai dati della tabella tasse da il valore con un logica  di AI
+import numpy as np
+import pandas as pd
+from sklearn import datasets #riferimento ai dati di esempio
+from sklearn.model_selection import train_test_split #organizza dati learning
+from sklearn.linear_model import Perceptron #modello di predizione scelto
+from sklearn.metrics import accuracy_score #calcolo dell'accuratezza
 
-import numpy as Numpy
-import pandas as Pandas
+excelFile = pd.read_excel('C:\Dati\entrate.xlsx')
+X = np.array([excelFile["Esercizio"],
+             #excelFile.Accertamenti.values,
+             #excelFile.Riscossioni.values,
+             excelFile["Residui"]]).T #input
+y = excelFile["Esercizio"] #output
 
-data = Pandas.read_excel("C:\Dati\entrate.xlsx" )
-print(data)
+print(X)
+print(X.shape)
+print(y.shape)
+#divide in insiemi di training 80% e test 20% e senza scelta casuale  
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-class ReteNeurale():
-    def __init__(self):
-        # Inizializzazione dei pesi con valori casuali compresi tra -1 e 1
-        Numpy.random.seed(1)
-        self.pesi = 2 * Numpy.random.random((3, 1)) - 1
+#impostazione parametri del modello neural network Perceptron
+ppn = Perceptron(max_iter=40, tol=0.001, eta0=0.01, random_state=0)
+#supervised learning del modello scelto
+ppn.fit(X_train, y_train)
 
-    def sigmoide(self, x):
-        # Funzione di attivazione sigmoide
-        return 1 / (1 + Numpy.exp(-x))
+#predizione sul test set
+y_pred = ppn.predict(X_test)
 
-    def sigmoide_der(self, x):
-        # Derivata della funzione sigmoide
-        return x * (1 - x)
+#verifica errore sul test set
+print('accuratezza della predizione',accuracy_score(y_test, y_pred))
 
-    def train(self, training_iNumpyuts, training_outputs, iterazioni):
-        for iteration in range(iterazioni):
-            # Calcolo dell'output a partire dall'iNumpyut
-            output = self.calcola(training_iNumpyuts)
-            # Calcolo del tasso di errore
-            error = training_outputs - output
-            # Calcolo delle correzioni secondo il tasso di errore
-            adj = Numpy.dot(training_iNumpyuts.T, error * self.sigmoide_der(output))
-            # Aggiornamento dei pesi
-            self.pesi += adj
-
-    def calcola(self, iNumpyuts):
-        iNumpyuts = iNumpyuts.astype(float)
-        # Applicazione della funzione sigmoide agli iNumpyut
-        output = self.sigmoide(Numpy.dot(iNumpyuts, self.pesi))
-        return output
-
-if __name__ == "__main__":
-    # Inizializzazione della rete neurale
-    rete_neurale = ReteNeurale()
-    
-    # Definizione dei dati di addestramento
-    training_iNumpyuts = Numpy.array([[0.5, 1, 0],
-                                [1, 1, 1],
-                                [1, 0, 1],
-                                [0, 1, 1]])
-    training_outputs = Numpy.array([[0, 1, 1, 0]]).T
-    
-    # Addestramento della rete
-    rete_neurale.train(training_iNumpyuts, training_outputs, 20000)
-    
-    # Inserimento di nuovi dati, senza l'output desiderato
-    print("Nuovo iNumpyut: ", 1, 1, 0)
-    
-    # Calcolo dell'output per i nuovi dati
-    print(rete_neurale.calcola(Numpy.array([1, 1, 0])))
+#messa in esercizio su nuovi dati di un oggetto da classificare
+print ("classe predetta",ppn.predict([[1.3, 1.2]]))
+print ("classe predetta",ppn.predict([[4,11]]))
