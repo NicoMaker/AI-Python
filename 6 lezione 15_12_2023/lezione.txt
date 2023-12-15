@@ -1,0 +1,10 @@
+Due tipi memoria -> lungo termine o a breve termine
+
+lungo termine -> conserva 
+Breve termine -> perdi subito
+
+Keras -> libreria addestramento neurali -> per rete neurali complesso, più facili da usare 
+Tensor Flow -> basato per grafi -> dati che entrano nel grafo 
+
+Keras -> libreria da sola ora con Tensor Flow
+Tensor Flow -> librerie basso livello
