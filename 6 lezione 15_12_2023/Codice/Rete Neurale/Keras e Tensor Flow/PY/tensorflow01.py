@@ -1,4 +1,4 @@
-tensorflow_version 2.x  # attiva esecuzione della versione 2.0
+#tensorflow_version 2.x  # attiva esecuzione della versione 2.0
 import tensorflow as tf
 print(tf.__version__)
 
