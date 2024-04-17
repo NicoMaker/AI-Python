@@ -1,0 +1,10 @@
+17 Aprile 2024
+
+Dataset -> raccolta di dati, sono dati non strutturati
+
+Dataset -> IRIS
+
+Diversi Dataset -> in internet
+IRIS -> 150 istanze di specie con 3 specie
+
+EEPROM -> rete neurale, facendo diverse previsioni di opzioni
