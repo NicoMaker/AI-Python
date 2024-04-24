@@ -1,8 +1,8 @@
 
 import cv2
-f_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
-e_cascade = cv2.CascadeClassifier("haarcascade_eye.xml")
-image = cv2.imread("elodie2.png")
+f_cascade = cv2.CascadeClassifier("../XML/haarcascade_frontalface_default.xml")
+e_cascade = cv2.CascadeClassifier("../XML/haarcascade_eye.xml")
+image = cv2.imread("../img/elodie2.png")
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 """gray: Questo è l'input dell'immagine in scala di grigi su cui verrà eseguito il rilevamento. 
 Prima di rilevare i volti, è una pratica comune convertire l'immagine a scala di grigi poiché semplifica 
