@@ -16,3 +16,6 @@ csv2 -> inserisci immaggini da analizzare
 riconoscimento vnto -> addesrati dei dataset diversi per oognuno (Arcascade)
 
 Se il viso non è messo bene -> non riconosce il viso
+
+Yolo -> oggetti in tempo reale, più preciso e si basa sulla rete neurale -> scompone in diverse parti come griglie e capisce
+        la struttura dove prendere l'immagine da analizzare
