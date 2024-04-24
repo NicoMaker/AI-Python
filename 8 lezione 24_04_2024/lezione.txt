@@ -1,0 +1,18 @@
+24 Aprile 2024
+
+Imagine convertiti in processi -> faase preliminare computer io
+Ogni Problema -> sua parte di lavoro, hanno una base di conoscenza, lavorazione e figurazione delle immaggini, pixel 
+
+All fine immagine più semplice per analizzarla
+
+OpenCV -> libbreria lavorazione immaggini, vedendo i vari dati, riconoscimento volto
+
+Funzione bridge -> leggi le immaggini
+Show -> vedi
+Read -> leggere
+
+csv2 -> inserisci immaggini da analizzare
+
+riconoscimento vnto -> addesrati dei dataset diversi per oognuno (Arcascade)
+
+Se il viso non è messo bene -> non riconosce il viso
