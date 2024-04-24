@@ -2,7 +2,7 @@ import cv2
 
 
 # Definiamo i path necessari
-image_path = 'tshirt02.jpg'
+image_path = 'img/tshirt02.jpg'
 haarcasc_path = 'haarcascade_frontalface_default.xml'
 
 
